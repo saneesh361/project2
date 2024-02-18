@@ -58,7 +58,7 @@ h2.logo{
 /* banner section */
 #banner{
     background-color: cadetblue;
-    background-image: url(images/banner-bg.jpg);
+    background-image: url(banner-bg.jpg);
     color: white;
     background-size: cover;
     text-shadow: 0px 0px 5px black;
